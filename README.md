@@ -6,8 +6,8 @@
 - Notion  : [Goeun's Algorithm Playground](https://www.notion.so/simdev1234)
    
    
-## Tech Stack
-##### Techs that I've used at least once       
+# Tech Stack
+### Techs that I've used at least once       
 ![Alt text](https://img.shields.io/badge/Java-blue?style=flat-square&logo=java&logoColor=white)&nbsp;![Alt text](https://img.shields.io/badge/Oracle-lightgrey?style=flat-square&logo=Oracle&logoColor=white)&nbsp;![Alt text](https://img.shields.io/badge/JSP/Servlet-brightgreen?style=flat-square&logo=jsp&logoColor=white)&nbsp;![Alt text](https://img.shields.io/badge/HTML5-9cf?style=flat-square&logo=html5&logoColor=white)&nbsp;![Alt text](https://img.shields.io/badge/CSS-ff69b4?style=flat-square&logo=css3&logoColor=white)&nbsp;![Alt text](https://img.shields.io/badge/JavaScript-orange?style=flat-square&logo=JavaScript&logoColor=white)&nbsp;![Alt text](https://img.shields.io/badge/JSON-yellow?style=flat-square&logo=json&logoColor=white)&nbsp;
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simDev1234&layout=compact)](https://github.com/****/github-readme-stats)
