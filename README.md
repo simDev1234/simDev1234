@@ -3,7 +3,8 @@
 # Summary
 - Simply and quietly moving forward.
 - Tistory : [심플한 개발](https://why-dev.tistory.com/)
-- Notion  : [Goeun's Algorithm Playground](https://www.notion.so/simdev1234)
+- Notion  : [Goeun's Algorithm Playground](https://www.notion.so/simdev1234)   
+
    
    
 # Tech Stack
