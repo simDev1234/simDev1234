@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=E3826C&height=250&section=header&text=Goeun%20Choi&fontSize=90&animation=fadeIn)
 
-## Summary
+# Summary
 **이메일** : simDev1234@gmail.com
 
 **연락처** : 010-7297-8578
@@ -23,7 +23,7 @@ Java/Spring 기반의 백엔드 개발을 학습하였고, <br>
 - AWS EC2 Ubuntu 환경에서 Docker 활용 경험
 <br/>
 
-## Tech Stack      
+# Tech Stack      
 - Spring Framework
 (Spring Security, Spring MVC, JWT)
 - RDB : MariaDB, MySQL, H2
@@ -35,7 +35,7 @@ Java/Spring 기반의 백엔드 개발을 학습하였고, <br>
 
 <br>
 
-## Project
+# Project
 - '제로몰' 팀 프로젝트
   - 노션   : [바로가기](https://simdev1234.notion.site/TEAM-ZERO-eac18135b69945f3b6d4181e88ea79de)
   - 깃허브 : [바로가기](https://github.com/zero-mall/zeroMall)  
