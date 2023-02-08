@@ -5,7 +5,8 @@
 
 **연락처** : 010-7297-8578
 
-**이력서** : [Notion 이력서 바로가기]([https://www.notion.so/simdev1234/b21453e8a6b4406897e3b3cc6d430d4b](https://simdev1234.notion.site/b21453e8a6b4406897e3b3cc6d430d4b))
+**이력서** : [Notion 이력서 바로가기](https://www.notion.so/simdev1234/b21453e8a6b4406897e3b3cc6d430d4b)
+
 
 <br>
 
