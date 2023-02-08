@@ -5,9 +5,7 @@
 
 **연락처** : 010-7297-8578
 
-**이력서/자기소개서** : [Notion 이력서 바로가기](https://www.notion.so/simdev1234/b21453e8a6b4406897e3b3cc6d430d4b)
-
-**티스토리** : [TIL 전용 Tistory 바로가기](https://why-dev.tistory.com/)
+**이력서** : [Notion 이력서 바로가기]([https://www.notion.so/simdev1234/b21453e8a6b4406897e3b3cc6d430d4b](https://simdev1234.notion.site/b21453e8a6b4406897e3b3cc6d430d4b))
 
 <br>
 
@@ -34,11 +32,3 @@ Java/Spring 기반의 백엔드 개발을 학습하였고, <br>
 - Slack, Github, Notion
 
 <br>
-
-# Project
-- '제로몰' 팀 프로젝트
-  - 노션   : [바로가기](https://simdev1234.notion.site/TEAM-ZERO-eac18135b69945f3b6d4181e88ea79de)
-  - 깃허브 : [바로가기](https://github.com/zero-mall/zeroMall)  
-- '팻집사' 개인 프로젝트 
-  - 노션   : [바로가기](https://simdev1234.notion.site/6d23b43c69aa416bb72c93bede6ff1b8)
-  - 깃허브 : [바로가기](https://github.com/simDev1234/petbutler)
