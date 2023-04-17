@@ -5,8 +5,6 @@
 
 **연락처** : 010-7297-8578
 
-**소개** : [노션 소개 페이지로 이동](https://simdev1234.notion.site/425091f027cc40a8802f0b49e08cb0dd)
-
 <br>
 
 # Tech Stack      
