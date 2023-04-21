@@ -8,20 +8,25 @@
 <br>
 
 # Tech Stack      
-BackEnd
+### Frontend
+
+- HTML/CSS/Javascript(jquery)
+- Bootstrap
+
+### Backend
+
 - Java
-- SpringBoot
-- Spring Data JPA, MyBatis
-- Spring Security
-- Jsoup
+- SpringBoot(Gradle) : Spring Security, JPA, Spring Web Socket, Scheduler, Jsoup
+- MyBatis
+- Docker
+- AWS : EC2(ubuntu), S3, RDS
 
-DevOps
-- AWS products
-- H2
-- RDBS
-- NoSQL
+### Database
 
-Collaboration & Tools
-- IntelliJ
-- Git/Github
-- Slack, Notion, Discord, GetterTown
+- RDBMS : MySQL/MariaDB, Oracle
+- NoSQL : Redis/MongoDB
+
+### ETC
+
+- Git/GitHub를 통한 Continuous Integration
+- Notion, Google Drive 를 활용한 문서 관리
