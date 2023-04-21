@@ -5,8 +5,6 @@
 
 **연락처** : 010-7297-8578
 
-<br>
-
 # Tech Stack      
 ### Frontend
 
@@ -30,3 +28,7 @@
 
 - Git/GitHub를 통한 Continuous Integration
 - Notion, Google Drive 를 활용한 문서 관리
+
+# Coding
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rhdms750)](https://solved.ac/rhdms750)
