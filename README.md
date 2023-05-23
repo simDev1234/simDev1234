@@ -3,8 +3,6 @@
 # Summary
 **이메일** : simDev1234@gmail.com
 
-**연락처** : 010-7297-8578
-
 # Tech Stack      
 ### Frontend
 
